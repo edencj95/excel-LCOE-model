@@ -1,0 +1,1 @@
+This repository contains an excel file (.xlsx). The economic analysis section (Section 3) of the assignment was based on the results of this LCOE model. Feel free to modify any parameter to test the model.
